@@ -15,16 +15,16 @@ ECEF coordinates and converts them to LLA.
 
 Examples: 
 
-# transform_ecef_wgs84.py -h
+\# transform_ecef_wgs84.py -h
 Usage: transform_ecef_wgs84.py <v1> <v2> <v3>
 
-# transform_ecef_wgs84.py 48.14928606302 16.28383433228 286.40506914692
+\# transform_ecef_wgs84.py 48.14928606302 16.28383433228 286.40506914692
 4092523.6549 1195484.3519 4728180.7406
 
-# transform_ecef_wgs84.py 4092523.6549 1195484.3519 4728180.7406
+\# transform_ecef_wgs84.py 4092523.6549 1195484.3519 4728180.7406
 48.1492860629 16.2838343330 286.4050
 
-See also some of my experiments with u-blox GNSS receivers 
-[Comparison Precise Point Positioning (PPP) and RTK Methods](https://blog.mayer.tv/2026/03/16/Comparison-Precise-Point-Positioning-PPP-Methods.html){:target="_blank"} 
+See also some of my experiments with u-blox GNSS receivers <br>
+[Comparison Precise Point Positioning (PPP) and RTK Methods](https://blog.mayer.tv/2026/03/16/Comparison-Precise-Point-Positioning-PPP-Methods.html)
 
 
