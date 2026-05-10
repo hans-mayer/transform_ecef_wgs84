@@ -24,7 +24,7 @@ Usage: transform_ecef_wgs84.py <v1> <v2> <v3>
 # transform_ecef_wgs84.py 4092523.6549 1195484.3519 4728180.7406
 48.1492860629 16.2838343330 286.4050
 
-See also some of my experiments with u-blox GNSS receivers <br>
+See also some of my experiments with u-blox GNSS receivers 
 https://blog.mayer.tv/2026/03/16/Comparison-Precise-Point-Positioning-PPP-Methods.html
 
 
